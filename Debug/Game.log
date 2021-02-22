@@ -1,0 +1,9 @@
+﻿  main.cpp
+e:\school\2018 spring\cs110a\project\game\game\mapfunctions.cpp(349): error C2660: 'getMapSquare': function does not take 0 arguments
+  e:\school\2018 spring\cs110a\project\game\game\mapfunctions.cpp(78): note: see declaration of 'getMapSquare'
+e:\school\2018 spring\cs110a\project\game\game\mapfunctions.cpp(361): error C2660: 'getMapSquare': function does not take 0 arguments
+  e:\school\2018 spring\cs110a\project\game\game\mapfunctions.cpp(78): note: see declaration of 'getMapSquare'
+e:\school\2018 spring\cs110a\project\game\game\werewolffunctions.cpp(180): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\school\2018 spring\cs110a\project\game\game\interactionfunctions.cpp(347): error C2064: term does not evaluate to a function taking 0 arguments
+e:\school\2018 spring\cs110a\project\game\game\interactionfunctions.cpp(351): error C2064: term does not evaluate to a function taking 0 arguments
+e:\school\2018 spring\cs110a\project\game\game\interactionfunctions.cpp(354): error C2143: syntax error: missing ';' before '}'
